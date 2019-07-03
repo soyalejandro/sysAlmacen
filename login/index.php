@@ -19,7 +19,7 @@
 	<div class="container" style="display:none" id="cuerpo">
 		<div class="row justify-content-md-center">
 			<div class="col-md-auto login-box borde sombra">
-				<h3 class="text-center titulo">Iniciar Sesión</h3>
+				<h3 class="text-center titulo">++++Iniciar Sesión++++</h3>
 				<hr style="background:red; margin:14px; height:0px;">
 				<form id="frmIngreso">
 					<div class="form-row">
